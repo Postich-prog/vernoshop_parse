@@ -6,9 +6,6 @@
 - Установить виртуальное окружение
   ```bash
   py -3.7 -m venv venv
-  ```
-​
-  ```bash
   source venv/Scripts/activate
   ```
 ​
@@ -30,5 +27,5 @@
   ```bash
   python main_asyncio.py
   ```
-## Результаты в папке results в формате .csv
+# Результаты в папке results в формате .csv
 

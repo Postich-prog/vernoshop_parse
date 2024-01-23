@@ -6,6 +6,8 @@
 - Установить виртуальное окружение
   ```bash
   py -3.7 -m venv venv
+  ```
+  ```
   source venv/Scripts/activate
   ```
 ​
